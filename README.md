@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adityaseshasai Samineni
+- 👋 Hi, I’m Adityaseshasai Samineni.
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently in btech(cse) in SRMAP-UNIVERSITY. 
 - 💞️ I’m looking to collaborate on any projects.
